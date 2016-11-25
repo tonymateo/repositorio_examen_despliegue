@@ -31,7 +31,7 @@ Copyright (c) 2013 Daniel Eden
 
   40% {
     -webkit-transform: translateY(-30px);
-    transform: translateY(-30px);
+    transform: translateY(-35px);
   }
 
   60% {
@@ -3293,4 +3293,8 @@ Copyright (c) 2013 Daniel Eden
 .zoomOutUp {
   -webkit-animation-name: zoomOutUp;
   animation-name: zoomOutUp;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 09457c172dab062ca8dbe0f1f119aa994869c2bd
